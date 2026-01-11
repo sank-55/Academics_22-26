@@ -26,8 +26,8 @@
 <li><strong>Sem 4:</strong> Transform Calculus, Mechatronics*, Basic Thermodynamics, Operation Research</li>
 <li><strong>Sem 5:</strong> Casting-Forming-Welding*, Heat Transfer, Materials Engineering, Design of Machine Elements, Kinetics & Kinematics of Machines, Mechanism Sessional*</li>
 <li><strong>Sem 6:</strong> Applied Thermodynamics, Thermo Fluids Lab*, Finite Element Methods(AE)', Machine Tools and Machining* & Surface Engineering Lab*, Machine Drawing*, Computational Marine Hydrodynamics(NA)'</li>
-<li><strong>Sem 7:</strong> Applied Elasticity, Fabrication and Manufacturing of Advanced Composites , Soft Computing , Internal Combustion Engines, System and Control(Syscon), BTP - I </li>
-<li><strong>Sem 8:</strong> Microfluidics , Computational Fluid Dynamics, Vibration of structures, Mechanics of Human Body, Mechanics of Composites, micro & nano mechanics , BTP -II</li>
+<li><strong>Sem 7:</strong> Applied Elasticity, Fabrication and Manufacturing of Advanced Composites , Soft Computing , Internal Combustion Engines,SysCon , BTP - I </li>
+<li><strong>Sem 8:</strong> Microfluidics , Computational Fluid Dynamics, Vibration of structures, Robotics , Thermal Engineering Lab*, micro & nano mechanics, BTP -II</li>
 </ul>
 * -> Have Laboratory Components
 ||   ' -> Breadth Electives
