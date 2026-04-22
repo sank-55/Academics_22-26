@@ -28,6 +28,7 @@
 <li><strong>Sem 6:</strong> Applied Thermodynamics, Thermo Fluids Lab*, Finite Element Methods(AE)', Machine Tools and Machining* & Surface Engineering Lab*, Machine Drawing*, Computational Marine Hydrodynamics(NA)'</li>
 <li><strong>Sem 7:</strong> Applied Elasticity, Fabrication and Manufacturing of Advanced Composites , Soft Computing , Internal Combustion Engines,SysCon , BTP - I </li>
 <li><strong>Sem 8:</strong> Microfluidics , Computational Fluid Dynamics, Vibration of structures, Robotics , Thermal Engineering Lab*, micro & nano mechanics, BTP -II</li>
+UG ends here......
 
 ** But these are chosen for my research work 
 <li><strong>Sem 9:</strong> English, Mechanics of Composites, Aircraft stability and Control, Non linear Dynamics and Chaos , Aeroelasticty , innovations**  </li>
