@@ -30,9 +30,9 @@
 <li><strong>Sem 8:</strong> Microfluidics , Computational Fluid Dynamics, Vibration of structures, Robotics , Thermal Engineering Lab*, micro & nano mechanics, BTP -II</li>
 UG ends here......
 
-** But these are chosen for my research work 
-<li><strong>Sem 9:</strong> English, Mechanics of Composites, Aircraft stability and Control, Non linear Dynamics and Chaos , Aeroelasticty , innovations**  </li>
-<li><strong>Sem 10:</strong> Non Linear Vibrations, Structural health Monitoring, Non linear Control, Perturbation Theory, Acoustics and waves Interactions  </li>
+    <h> But these are chosen for my research work 
+<li><strong>Sem 9:</strong> English, Aircraft stability and Control, Nonlinear Dynamics and Chaos, Aeroelasticty  </li>
+<li><strong>Sem 10:</strong> Non Linear Vibrations , Perturbation Theory, Acoustics and waves Interactions  </li>
     
 </ul>
 * -> Have Laboratory Components
