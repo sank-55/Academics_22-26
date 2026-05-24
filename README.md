@@ -32,7 +32,7 @@ UG ends here......
 
     <h> But these are chosen for my research work 
 <li><strong>Sem 9:</strong> English, Aircraft stability and Control, Nonlinear Dynamics and Chaos, Aeroelasticty  </li>
-<li><strong>Sem 10:</strong> Non Linear Vibrations , Perturbation Theory, Acoustics and waves Interactions  </li>
+<li><strong>Sem 10:</strong> Non Linear Vibrations ,Structutal Health Monitoring, Acoustics and waves Interactions </li>
     
 </ul>
 * -> Have Laboratory Components
